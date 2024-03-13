@@ -15,7 +15,7 @@
 # 📊 GitHub Status:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManjulaJatavath&theme=swift&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
