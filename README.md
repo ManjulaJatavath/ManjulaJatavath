@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **Python and Django Projects
-- 🌱 I’m currently learning **Java and javascript
+- 🌱 I’m currently learning **javascript
 - 👯 I’m looking to collaborate on **Frontend and Backend Projects
 - 💬 Ask me about Technology and personal Developer**
 - 📫 How to reach me:**manjulajatavath554@gmail.com
