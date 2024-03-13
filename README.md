@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **Python and Django Projects
 - 🌱 I’m currently learning **javascript
 - 👯 I’m looking to collaborate on **Frontend and Backend Projects
-- 💬 Ask me about Technology and personal Developer**
+- 💬 Ask me about Technology and personal Developement**
 - 📫 How to reach me:**manjulajatavath554@gmail.com
 - 😄 Pronouns:she/Her
 - ⚡ Fun fact:*I enjoy listening to podcasts while coding, and I have a GitHub Action that updates my README with the latest episode I listened to.
