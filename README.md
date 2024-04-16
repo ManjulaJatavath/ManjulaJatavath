@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjulajatavath&label=Profile%20views&color=0e75b6&style=flat" alt="manjulajatavath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjulajatavath" alt="manjulajatavath" /></a> </p>
-
 - 🔭 I’m currently working on **Python and Django Projects**
 
 - 🌱 I’m currently learning **Javascript**
@@ -33,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjulajatavath&show_icons=true&locale=en" alt="manjulajatavath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjulajatavath&" alt="manjulajatavath" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjulajatavath" alt="manjulajatavath" /></a> </p>
