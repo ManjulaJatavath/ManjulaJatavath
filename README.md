@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python and Django Projects**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Projects**
 
