@@ -58,9 +58,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=radical&hide_border=false&include_all_commits=false&count_private=false&langs_count=8)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ManjulaJatavath&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+# Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manjulajatavath" alt="Manjulajatavath" /></a> </p>
 
 
