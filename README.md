@@ -1,33 +1,25 @@
-<h1 align="center">Hi there 👋, I'm Manjula Kethavath</h1>
-<h3 align="center">Python Backend Developer | Python 🐍 | Django ♨️ | React ⚛️</h3>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Manjulajatavath&label=Profile%20views&color=0e75b6&style=flat" alt="Manjulajatavath" />
-</p>
 
-- 🔭 I’m currently working on **Python and Django Projects**
-- 🌱 I’m currently learning **JavaScript and React**
-- 👨‍💻 All of my projects are available at **[https://bit.ly/3LK1Z95](https://bit.ly/3LK1Z95)**
-- 👯 I’m looking to collaborate on **Frontend and Backend Projects**
-- 💬 Ask me about **Technology and Personal Development**
-- 📫 How to reach me: **manjulajatavath554@gmail.com**
-- ⚡ Fun fact: **I enjoy listening to podcasts while coding.**
+## Hi, I'm Manjula Kethavath 👋
+# 💻 Python Backend Developer | Python 🐍 | Django ♨️ | React ⚛️
 
-# Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/manjula-jatavath-9b3113284" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjula-jatavath-9b3113284" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/jatavath-manjula" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Jatavath Manjula" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jatavathmanjula" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatavathmanjula" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/jatavathmanjula3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jatavathmanjula3" height="30" width="40" />
-  </a>
-</p>
+🔭 **I’m currently working on:** Python and Django Projects  
+🌱 **I’m currently learning:** JavaScript and React  
+👨‍💻 **All of my projects are available at:** [My Portfolio](https://bit.ly/3LK1Z95)  
+👯 **I’m looking to collaborate on:** Frontend and Backend Projects  
+💬 **Ask me about:** Technology and Personal Development  
+📫 **How to reach me:** manjulajatavath554@gmail.com  
+⚡ **Fun fact:** I enjoy listening to podcasts while coding.
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjula-jatavath-9b3113284) 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jatavath-manjula) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jatavathmanjula) 
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jatavathmanjula3)
+
+
 
 # 💻 Tech Stack:
 
