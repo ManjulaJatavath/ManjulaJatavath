@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manjula Kethavath</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Manjula Kethavath</h1>
+<h3 align="center"> Python Backend developer | Python 🐍 |  Django ♨️ | React ⚛️ |</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjulajatavath&label=Profile%20views&color=0e75b6&style=flat" alt="manjulajatavath" /> </p>
 
