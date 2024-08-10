@@ -49,8 +49,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ManjulaJatavath&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManjulaJatavath&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=8)
+
+
+
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManjulaJatavath&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=radical&hide_border=false&include_all_commits=false&count_private=false&langs_count=8)
 
 
 ### 🔝 Top Contributed Repo
