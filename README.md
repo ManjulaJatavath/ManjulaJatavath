@@ -28,7 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjulajatavath&show_icons=true&locale=en&layout=compact" alt="manjulajatavath" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjulajatavath&show_icons=true&locale=en" alt="manjulajatavath" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjulajatavath&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjulajatavath&" alt="manjulajatavath" /></p>
 
