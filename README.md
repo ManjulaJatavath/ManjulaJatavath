@@ -52,11 +52,9 @@
 
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManjulaJatavath&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="ManjulaJatavath's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManjulaJatavath&theme=radical&hide_border=false" alt="ManjulaJatavath's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=radical&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" alt="ManjulaJatavath's Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ManjulaJatavath&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManjulaJatavath&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏆 Trophy
 <p align="left">
