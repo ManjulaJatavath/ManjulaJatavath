@@ -57,11 +57,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=radical&hide_border=false&layout=compact)
 
 
-
-
-
-
-
 # 🏆 Trophy
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
