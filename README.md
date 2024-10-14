@@ -52,7 +52,7 @@
 
 
 # 📊 GitHub Stats:
-[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjulaJatavath&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ManjulaJatavath&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ManjulaJatavath&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=radical&hide_border=false&layout=compact)
 
