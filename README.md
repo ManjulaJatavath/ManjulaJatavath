@@ -54,13 +54,13 @@
 # 📊 GitHub Stats:
 [![Sachin's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Manjulajatavath&theme=radical&hide_border=false)<br/>
 [![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjulajatavath&theme=radical&hide_border=false&layout=compact)
-[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjulajatavath&count_private=true&show_icons=true&theme=radical)]
+[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjulajatavath&count_private=true&show_icons=true&theme=radical&include_all_commits=true)]
 
 
 # 🏆 Trophy
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manjulajatavath" alt="Manjulajatavath's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ManjulaJatavath" alt="Manjulajatavath's Trophies" />
   </a>
 </p>
 
