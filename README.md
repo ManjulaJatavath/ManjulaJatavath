@@ -52,9 +52,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManjulaJatavath&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaJatavath&theme=radical&hide_border=false&layout=compact)
-[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjulaJatavath&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sachin's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Manjulajatavath&theme=radical&hide_border=false)<br/>
+[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjulajatavath&theme=radical&hide_border=false&layout=compact)
+[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjulajatavath&count_private=true&show_icons=true&theme=radical)]
 
 
 # 🏆 Trophy
