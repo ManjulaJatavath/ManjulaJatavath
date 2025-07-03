@@ -4,7 +4,7 @@
 
 
 
-🔭 **I’m currently working on:** Python and Django Projects  
+🔭 **I’m currently working on:** Python & Django and React Projects  
 🌱 **I’m currently learning:** JavaScript and React  
 👨‍💻 **All of my projects are available at:** [My Portfolio](https://bit.ly/3LK1Z95)  
 👯 **I’m looking to collaborate on:** Frontend and Backend Projects  
