@@ -4,7 +4,7 @@
 
 
 
-🔭 **I’m Currently working as:** a Full Stack Developer at SATnPaper, contributing to an online education platform used by 5,000+ students.
+🔭 **I’m Currently working :** as a Full Stack Developer at SATnPaper, contributing to an online education platform used by 5,000+ students.
 🌱 **I’m currently learning:** DSA 
 👨‍💻 **All of my projects are available at:** [My Portfolio](https://bit.ly/3LK1Z95)  
 👯 **I’m looking to collaborate on:** Frontend and Backend Projects  
@@ -55,13 +55,4 @@
 
 [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManjulaJatavath&theme=radical)](https://github.com/Manjulajatavath)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManjulaJatavath&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjulajatavath&theme=radical&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
-
-# 🏆 Trophy
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManjulaJatavath" alt="Manjulajatavath's Trophies" />
-  </a>
-</p>
 
