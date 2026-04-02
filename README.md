@@ -4,8 +4,8 @@
 
 
 
-🔭 **I’m Currently working :** as a Full Stack Developer at SATnPaper, contributing to an online education platform used by 5,000+ students.
-🌱 **I’m currently learning:** DSA 
+🔭 **I’m Currently working :** as a Full Stack Developer at SATnPaper, contributing to an online education platform used by 5,000+ students.               
+🌱 **I’m currently learning:** DSA.                  
 👨‍💻 **All of my projects are available at:** [My Portfolio](https://bit.ly/3LK1Z95)  
 👯 **I’m looking to collaborate on:** Frontend and Backend Projects  
 💬 **Ask me about:** Technology and Personal Development  
